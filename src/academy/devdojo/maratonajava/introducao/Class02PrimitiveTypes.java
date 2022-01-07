@@ -12,8 +12,11 @@ public class Class02PrimitiveTypes {
         boolean isTrue = true;
         boolean isFalse = false;
         char charactere = 'M';
+        String name = "Gohan";
+
         System.out.println("We are " + age + " years old.");
         System.out.println(salaryFloat);
         System.out.println(bigNumber);
+        System.out.println("Hi my name is " + name);
     }
 }
